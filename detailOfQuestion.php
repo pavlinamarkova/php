@@ -10,7 +10,7 @@
 
 <?php
 
-$conn = mysqli_connect("db5011715785.hosting-data.io","dbu1819008","phpexammysql2023","dbs9871532");
+$conn = mysqli_connect("host","user","password","db-name");
 
 
 if (!$conn) {
